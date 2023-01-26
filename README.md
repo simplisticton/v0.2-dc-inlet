@@ -14,16 +14,17 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 
 ## Instructions
 
-1. Solder the wires between the Kycon connector and the switch prior to installation. Be sure to install heat-shrink tubing over all exposed areas (see figures 1 & 2). Also ensure that the inlet bracket is in place before soldering the switch!
-2. Screw the inlet bracket to the connector (see figure 3).
+1. Solder the wires between the Kycon connector and the switch prior to installation. Be sure to install heat-shrink tubing over all exposed areas (see figures 2 & 3). Also ensure that the inlet bracket is in place before soldering the switch!
+2. Screw the inlet bracket to the connector (see figure 4).
 3. Route the connector and wires through the switch hole in the DC inlet foot -- the connector is a tight fit but if you angle it correctly it will go through!
-4. Snap the switch into place (see figure 4).
-5. Screw the inlet bracket into the inlet foot (see figure 5).
+4. Snap the switch into place (see figure 5).
+5. Screw the inlet bracket into the inlet foot (see figure 6).
 6. Connect the switch to your controller board's 24DC in.
 
 ## Figures
-![Figure 1 - connector wiring](images/connector-wiring.png)
-![Figure 2 - assembled wiring](images/wiring.jpg)
-![Figure 3 - bracket-connector assembly](images/bracket-connector-assembly.png)
-![Figure 4 - switch-foot assembly](images/switch-foot-assembly.jpg)
-![Figure 5 - completed assembly](images/completed-assembly.jpg)
+![Figure 1 - model](images/model.png "Figure 1: Model")
+![Figure 2 - connector wiring](images/connector-wiring.png "Figure 2: Connector Wiring")
+![Figure 3 - assembled wiring](images/wiring.jpg "Figure 3: Assembled Wiring")
+![Figure 4 - bracket-connector assembly](images/bracket-connector-assembly.png "Figure 4: Bracket-Connector Assembly")
+![Figure 5 - switch-foot assembly](images/switch-foot-assembly.png "Figure 5: Switch-Foot Assembly")
+![Figure 6 - connector mounting](images/connector-mounting.png "Figure 6: Connector Mounting")
