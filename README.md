@@ -15,8 +15,8 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 ## Instructions
 
 1. Solder the wires between the Kycon connector and the switch prior to installation. Use the quick-connect terminals on the switch side. Be sure to install heat-shrink tubing over all exposed areas (see figures 2 & 3). Also ensure that the inlet bracket is in place before soldering the connector!
-2. Screw the inlet bracket to the connector (see figure 4).
-3. Route the connector and wires through the switch hole in the DC inlet foot -- the connector is a tight fit but if you angle it correctly it will go through!
+2. Route the bracket, connector, and wires through the switch opening in the DC inlet foot. Don't screw the bracket to the connector until after you've run them through the switch opening -- the connector is a tight fit but if you angle it correctly it will go through! 
+3. Screw the inlet bracket to the connector (see figure 4).
 4. Snap the switch into place (see figure 5).
 5. Screw the inlet bracket into the inlet foot (see figure 6).
 6. Connect the switch to your controller board's 24DC in.
