@@ -28,3 +28,4 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 ![Figure 4 - bracket-connector assembly](images/bracket-connector-assembly.png "Figure 4: Bracket-Connector Assembly")
 ![Figure 5 - switch-foot assembly](images/switch-foot-assembly.png "Figure 5: Switch-Foot Assembly")
 ![Figure 6 - connector mounting](images/connector-mounting.png "Figure 6: Connector Mounting")
+![Figure 7 - completed part](images/completed.jpg "Figure 7: Completed part")
