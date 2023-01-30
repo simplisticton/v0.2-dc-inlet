@@ -12,6 +12,15 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 - 18AWG wire
 - Heatshrink tubing
 
+## Implications
+
+There are several implications to not having mains power in your printer:
+- 24V bed heater can be safely run at 100% power
+- No need for a 24V power supply on the printer itself means a lot more availabe room 
+- You can utilize a 24V-5V step down converter to power your Raspberry Pi instead of needing a separate 5V PSU
+
+I recommend using Wago lever nuts and ferules to simplify your wiring and keep it neat and tidy!
+
 ## Instructions
 
 1. Prepare the foot as per the Voron V0.2 manual (i.e., insert heatsets).
@@ -30,3 +39,4 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 ![Figure 5 - switch-foot assembly](images/switch-foot-assembly.png "Figure 5: Switch-Foot Assembly")
 ![Figure 6 - connector mounting](images/connector-mounting.png "Figure 6: Connector Mounting")
 ![Figure 7 - completed part](images/completed.jpg "Figure 7: Completed part")
+
