@@ -14,12 +14,13 @@ Replaces the mains inlet foot part in the V0.2 to allow for the use of an extern
 
 ## Instructions
 
-1. Solder the wires between the Kycon connector and the switch prior to installation. Use the quick-connect terminals on the switch side. Be sure to install heat-shrink tubing over all exposed areas (see figures 2 & 3). Also ensure that the inlet bracket is in place before soldering the connector!
-2. Route the bracket, connector, and wires through the switch opening in the DC inlet foot. Don't screw the bracket to the connector until after you've run them through the switch opening -- the connector is a tight fit but if you angle it correctly it will go through! 
-3. Screw the inlet bracket to the connector (see figure 4).
-4. Snap the switch into place (see figure 5).
-5. Screw the inlet bracket into the inlet foot (see figure 6).
-6. Connect the switch to your controller board's 24DC in.
+1. Prepare the foot as per the Voron V0.2 manual (i.e., insert heatsets).
+2. Solder the wires between the Kycon connector and the switch prior to installation. Use the quick-connect terminals on the switch side. Be sure to install heat-shrink tubing over all exposed areas (see figures 2 & 3). Also ensure that the inlet bracket is in place before soldering the connector!
+3. Route the bracket, connector, and wires through the switch opening in the DC inlet foot. Don't screw the bracket to the connector until after you've run them through the switch opening -- the connector is a tight fit but if you angle it correctly it will go through! 
+4. Screw the inlet bracket to the connector (see figure 4).
+5. Snap the switch into place (see figure 5).
+6. Screw the inlet bracket into the inlet foot (see figure 6).
+7. Connect the switch to your controller board's 24DC in.
 
 ## Figures
 ![Figure 1 - model](images/model.png "Figure 1: Model")
